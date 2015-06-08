@@ -1,0 +1,1360 @@
+Date,Country,Opponent,GoalsScored,GoalsReceived,Venue,Competition,IsHome,ExtraTime,Penalties,PenScored,PenReceived
+1998-06-21,Argentina,Jamaica,5,0,Paris,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2006-06-24,Argentina,Mexico,2,1,Leipzig,FIFA World Cup,FALSE,TRUE,FALSE,0,0
+2010-06-27,Argentina,Mexico,3,1,Johannesburg,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-04-24,Argentina,Bolivia,3,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-06-02,Argentina,Ecuador,0,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-07-07,Argentina,Peru,0,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-09-01,Argentina,Paraguay,1,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-10-09,Argentina,Venezuela,5,2,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-12-15,Argentina,Chile,1,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-01-12,Argentina,Uruguay,0,0,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-02-12,Argentina,Colombia,1,0,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-04-02,Argentina,Bolivia,1,2,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-04-30,Argentina,Ecuador,2,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-06-08,Argentina,Peru,2,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-07-06,Argentina,Paraguay,2,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-07-20,Argentina,Venezuela,2,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-09-10,Argentina,Chile,2,1,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-10-12,Argentina,Uruguay,0,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-11-16,Argentina,Colombia,1,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-03-29,Argentina,Chile,4,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-04-26,Argentina,Venezuela,4,0,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-04,Argentina,Bolivia,1,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-29,Argentina,Colombia,3,1,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-19,Argentina,Ecuador,2,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-26,Argentina,Brazil,1,3,Sao Paulo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-08-16,Argentina,Paraguay,1,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-09-03,Argentina,Peru,2,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-10-08,Argentina,Uruguay,2,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-11-15,Argentina,Chile,2,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-03-28,Argentina,Venezuela,5,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-04-25,Argentina,Bolivia,3,3,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-06-03,Argentina,Colombia,3,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-08-15,Argentina,Ecuador,2,0,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-09-05,Argentina,Brazil,2,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-10-07,Argentina,Paraguay,2,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-08,Argentina,Peru,2,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-14,Argentina,Uruguay,1,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-03,Argentina,Chile,2,2,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-09,Argentina,Venezuela,3,0,Caracas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-15,Argentina,Bolivia,3,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-19,Argentina,Colombia,1,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-03-30,Argentina,Ecuador,1,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-02,Argentina,Brazil,1,3,Belo Horizonte,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-06,Argentina,Paraguay,0,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-09-04,Argentina,Peru,3,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-09,Argentina,Uruguay,4,2,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-13,Argentina,Chile,0,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-11-17,Argentina,Venezuela,3,2,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-26,Argentina,Bolivia,2,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-30,Argentina,Colombia,1,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-04,Argentina,Ecuador,0,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-08,Argentina,Brazil,3,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-09-03,Argentina,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-09,Argentina,Peru,2,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-12,Argentina,Uruguay,0,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-13,Argentina,Chile,2,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-16,Argentina,Venezuela,2,0,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-17,Argentina,Bolivia,3,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-20,Argentina,Colombia,1,2,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-15,Argentina,Ecuador,1,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-18,Argentina,Brazil,0,0,Belo Horizonte,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-06,Argentina,Paraguay,1,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-10,Argentina,Peru,1,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-11,Argentina,Uruguay,2,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-15,Argentina,Chile,0,1,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-03-28,Argentina,Venezuela,4,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-04-01,Argentina,Bolivia,1,6,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-06,Argentina,Colombia,1,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-10,Argentina,Ecuador,0,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-05,Argentina,Brazil,1,3,Rosario,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-09,Argentina,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-10,Argentina,Peru,2,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-14,Argentina,Uruguay,1,0,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-10-07,Argentina,Chile,4,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-10-11,Argentina,Venezuela,0,1,Puerto La Cruz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-11-11,Argentina,Bolivia,1,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-11-15,Argentina,Colombia,2,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-06-02,Argentina,Ecuador,4,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-07,Argentina,Paraguay,3,1,Cordoba,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-11,Argentina,Peru,1,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-10-12,Argentina,Uruguay,3,0,Mendoza,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-10-16,Argentina,Chile,2,1,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-22,Argentina,Venezuela,3,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-03-26,Argentina,Bolivia,1,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-07,Argentina,Colombia,0,0,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-11,Argentina,Ecuador,1,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-10,Argentina,Paraguay,5,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-11,Argentina,Peru,3,1,Buenos Aires,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-10-15,Argentina,Uruguay,2,3,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1995-07-08,Argentina,Bolivia,2,1,Paysandu,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-11,Argentina,Chile,4,0,Paysandu,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-14,Argentina,USA,0,3,Paysandu,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-17,Argentina,Brazil,2,2,Rivera,Copa America,FALSE,FALSE,TRUE,2,4
+1997-06-11,Argentina,Ecuador,0,0,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-14,Argentina,Chile,2,0,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-17,Argentina,Paraguay,1,1,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-21,Argentina,Peru,1,2,Sucre,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-01,Argentina,Ecuador,3,1,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-04,Argentina,Colombia,0,3,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-07,Argentina,Uruguay,2,0,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-11,Argentina,Brazil,1,2,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-07,Argentina,Ecuador,6,1,Chiclayo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-10,Argentina,Mexico,0,1,Chiclayo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-13,Argentina,Uruguay,4,2,Piura,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-17,Argentina,Peru,1,0,Chiclayo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-20,Argentina,Colombia,3,0,Lima,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-25,Argentina,Brazil,2,2,Lima,Copa America,FALSE,FALSE,TRUE,2,4
+2007-06-28,Argentina,USA,4,1,Maracaibo,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-02,Argentina,Colombia,4,2,Maracaibo,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-05,Argentina,Paraguay,1,0,Barquisimeto,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-08,Argentina,Peru,4,0,Barquisimeto,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-11,Argentina,Mexico,3,0,Puerto Ordaz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-15,Argentina,Brazil,0,3,Maracaibo,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-01,Argentina,Bolivia,1,1,La Plata,Copa America,TRUE,FALSE,FALSE,0,0
+2011-07-06,Argentina,Colombia,0,0,Cordoba,Copa America,TRUE,FALSE,FALSE,0,0
+2011-07-11,Argentina,Costa Rica,3,0,Cordoba,Copa America,TRUE,FALSE,FALSE,0,0
+2011-07-16,Argentina,Uruguay,1,1,Santa Fe,Copa America,TRUE,TRUE,TRUE,4,5
+2005-06-26,Argentina,Mexico,1,1,Hannover,FIFA Confederations Cup,FALSE,TRUE,TRUE,6,5
+2005-06-29,Argentina,Brazil,1,4,Frankfurt am Main,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+1998-06-27,Chile,Brazil,1,4,Paris,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2010-06-28,Chile,Brazil,0,3,Johannesburg,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2014-06-28,Chile,Brazil,1,1,Belo Horizonte,FIFA World Cup,FALSE,TRUE,TRUE,2,3
+1996-96-02,Chile,Venezuela,1,1,Barinas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-07-06,Chile,Ecuador,4,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-09-01,Chile,Colombia,1,4,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-10.09,Chile,Paraguay,1,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-11-12,Chile,Uruguay,1,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-12-15,Chile,Argentina,1,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-01-12,Chile,Peru,1,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-02-12,Chile,Bolivia,1,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-04-29,Chile,Venezuela,Santiago de Chile,6,0,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-06-08,Chile,Ecuador,1,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-07-05,Chile,Colombia,4,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-07-20,Chile,Paraguay,2,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-08-20,Chile,Uruguay,0,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-09-10,Chile,Argentina,1,2,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-10-12,Chile,Peru,4,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-11-16,Chile,Bolivia,3,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-03-29,Chile,Argentina,1,4,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-04-26,Chile,Peru,1,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-03,Chile,Uruguay,1,2,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-29,Chile,Paraguay,3,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-19,Chile,Bolivia,0,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-25,Chile,Venezuela,2,0,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-08-15,Chile,Brazil,3,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-09-02,Chile,Colombia,0,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-10-08,Chile,Ecuador,0,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-11-15,Chile,Argentina,0,2,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-03-27,Chile,Peru,1,3,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-04.24,Chile,Uruguay,0,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-06-02,Chile,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-08-14,Chile,Bolivia,2,2,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-09-04,Chile,Venezuela,0,2,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-10-07,Chile,Brazil,0,2,Curitiba,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-07,Chile,Colombia,1,3,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-14,Chile,Ecuador,0,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-06,Chile,Argentina,2,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-09,Chile,Peru,2,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-15,Chile,Uruguay,1,2,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-18,Chile,Paraguay,0,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-03-30,Chile,Bolivia,2,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-01,Chile,Venezuela,1,0,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-06,Chile,Brazil,1,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-09-05,Chile,Colombia,0,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-10,Chile,Ecuador,0,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-13,Chile,Argentina,0,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-11-17,Chile,Peru,1,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-26,Chile,Uruguay,1,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-30,Chile,Paraguay,1,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-04,Chile,Bolivia,3,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-08,Chile,Venezuela,2,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-09-04,Chile,Brazil,0,5,Brasilia,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-08,Chile,Colombia,1,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-12-12,Chile,Ecuador,0,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-13,Chile,Argentina,0,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-17,Chile,Peru,2,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-18,Chile,Uruguay,2,2,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-21,Chile,Paraguay,0,3,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-15,Chile,Bolivia,2,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-19,Chile,Venezuela,3,2,Puerto La Cruz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-07,Chile,Brazil,0,3,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-10,Chile,Colombia,4,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-12,Chile,Ecuador,0,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-15,Chile,Argentina,1,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-03-29,Chile,Peru,3,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-04-01,Chile,Uruguay,0,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-06,Chile,Paraguay,2,0,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-10,Chile,Bolivia,4,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-05,Chile,Venezuela,2,2,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-09,Chile,Brazil,2,4,Salvador,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-10,Chile,Colombia,4,2,Medellin,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-14,Chile,Ecuador,1,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-10-07,Chile,Argentina,1,4,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-10-11,Chile,Peru,4,2,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-11-11,Chile,Uruguay,0,4,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-11-15,Chile,Paraguay,2,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-06-02,Chile,Bolivia,2,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-06-09,Chile,Venezuela,2,0,Puerto La Cruz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-11,Chile,Colombia,1,3,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-10-12,Chile,Ecuador,1,3,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-10-16,Chile,Argentina,1,2,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-03-22,Chile,Peru,0,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-26,Chile,Uruguay,2,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-07,Chile,Paraguay,2,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-11,Chile,Bolivia,3,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-06,Chile,Venezuela,3,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-10-11,Chile,Colombia,3,3,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-15,Chile,Ecuador,2,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1995-07-08,Chile,USA,1,2,Paysandu,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-11,Chile,Argentina,0,4,Paysandu,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-14,Chile,Bolivia,2,2,Paysandu,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-11,Chile,Paraguay,0,1,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-14,Chile,Argentina,0,2,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-17,Chile,Ecuador,1,2,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1999-06-30,Chile,Mexico,0,1,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-03,Chile,Venezuela,3,0,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-06,Chile,Brazil,0,1,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-11,Chile,Colombia,3,2,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-13,Chile,Uruguay,1,1,Asuncion,Copa America,FALSE,FALSE,TRUE,3,5
+1999-07-17,Chile,Mexico,1,2,Asuncion,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-11,Chile,Ecuador,4,1,Barranquilla,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-14,Chile,Venezuela,1,0,Barranquilla,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-17,Chile,Colombia,0,2,Barranquilla,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-22,Chile,Mexico,0,2,Pereira,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-08,Chile,Brazil,0,1,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-11,Chile,Paraguay,1,1,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-14,Chile,Costa Rica,1,2,Tacna,Copa America,FALSE,FALSE,FALSE,0,0
+2007-06-27,Chile,Ecuador,3,2,Puerto Ordaz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-01,Chile,Brazil,0,3,Maturin,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-04,Chile,Mexico,0,0,Puerto La Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-07,Chile,Brazil,1,6,Puerto La Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-04,Chile,Mexico,2,1,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-08,Chile,Uruguay,1,1,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-12,Chile,Peru,1,0,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-17,Chile,Venezuela,1,2,San Juan,Copa America,FALSE,FALSE,FALSE,0,0
+2002-06-09,Mexico,Ecuador,2,1,Rifu,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2002-06-17,Mexico,USA,0,2,Jeonju,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2006-06-24,Mexico,Argentina,1,2,Leipzig,FIFA World Cup,FALSE,TRUE,FALSE,0,0
+2010-06-22,Mexico,Uruguay,0,1,Phokeng,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2010-06-27,Mexico,Argentina,1,3,Johannesburg,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2014-06-17,Mexico,Brazil,0,0,Fortaleza,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-10-16,Mexico,Jamaica,2,1,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-11-17,Mexico,Jamaica,0,1,Kingston,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-03-16,Mexico,Costa Rica,0,0,Tibas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-04-13,Mexico,Jamaica,6,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-20,Mexico,USA,2,2,Foxboro,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-11-02,Mexico,USA,0,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-11-09,Mexico,Costa Rica,3,3,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-11-16,Mexico,Jamaica,0,0,Kingston,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-02-28,Mexico,USA,0,2,Columbus,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-03-25,Mexico,Jamaica,4,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-06-16,Mexico,Costa Rica,1,2,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-07-01,Mexico,USA,1,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-09-02,Mexico,Jamaica,2,1,Kingston,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-10-07,Mexico,Costa Rica,0,0,Tibas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-02-09,Mexico,Costa Rica,2,1,Tibas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-27,Mexico,USA,2,1,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-08-17,Mexico,Costa Rica,2,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-09-03,Mexico,USA,0,2,Columbus,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-06,Mexico,Jamaica,3,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-11,Mexico,Jamaica,0,1,Kingston,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-02-11,Mexico,USA,0,2,Columbus,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-03-28,Mexico,Costa Rica,2,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-08-12,Mexico,USA,2,1,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-05,Mexico,Costa Rica,3,0,Tibas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-07,Mexico,Costa Rica,2,0,San Jose,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-11,Mexico,Costa Rica,1,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-02-06,Mexico,Jamaica,0,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-03-26,Mexico,USA,0,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-04,Mexico,Jamaica,1,0,Kingston,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-11,Mexico,Costa Rica,0,0,Ciudad de Mexico,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-10,Mexico,USA,0,2,Columbus,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-15,Mexico,Costa Rica,1,2,San Jose,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1995-07-06,Mexico,Paraguay,1,2,Maldonado,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-09,Mexico,Venezuela,3,1,Maldonado,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-13,Mexico,Uruguay,1,1,Montevideo,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-13,Mexico,USA,0,0,Paysandu,Copa America,FALSE,FALSE,TRUE,1,4
+1996-01-21,Mexico,Brazil,2,0,Los Angeles,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+1997-06-13,Mexico,Colombia,2,1,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-16,Mexico,Brazil,2,3,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-19,Mexico,Costa Rica,1,1,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-22,Mexico,Ecuador,1,1,Cochabamba,Copa America,FALSE,FALSE,TRUE,4,3
+1997-06-25,Mexico,Bolivia,1,3,La Paz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-28,Mexico,Peru,1,0,Oruro,Copa America,FALSE,FALSE,FALSE,0,0
+1998-02-12,Mexico,Jamaica,1,0,Los Angeles,CONCACAF Gold Cup,FALSE,TRUE,FALSE,0,0
+1998-02-15,Mexico,USA,1,0,Los Angeles,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+1999-06-30,Mexico,Chile,1,0,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-03,Mexico,Brazil,1,2,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-06,Mexico,Venezuela,3,1,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-10,Mexico,Peru,3,3,Asuncion,Copa America,FALSE,FALSE,TRUE,4,2
+1999-07-14,Mexico,Brazil,0,2,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-12,Mexico,Brazil,1,0,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-15,Mexico,Paraguay,0,0,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-18,Mexico,Peru,0,1,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-22,Mexico,Chile,2,0,Pereira,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-25,Mexico,Uruguay,2,1,Pereira,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-29,Mexico,Colombia,0,1,Bogota,Copa America,FALSE,FALSE,FALSE,0,0
+2003-07-13,Mexico,Brazil,1,0,Ciudad de Mexico,CONCACAF Gold Cup,TRUE,FALSE,FALSE,0,0
+2003-07-20,Mexico,Jamaica,5,0,Ciudad de Mexico,CONCACAF Gold Cup,TRUE,FALSE,FALSE,0,0
+2003-07-24,Mexico,Costa Rica,2,0,Ciudad de Mexico,CONCACAF Gold Cup,TRUE,FALSE,FALSE,0,0
+2003-07-27,Mexico,Brazil,1,0,Ciudad de Mexico,CONCACAF Gold Cup,TRUE,TRUE,FALSE,0,0
+2004-07-07,Mexico,Uruguay,2,2,Chiclayo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-10,Mexico,Argentina,1,0,Chiclayo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-13,Mexico,Ecuador,2,1,Piura,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-18,Mexico,Brazil,0,4,Piura,Copa America,FALSE,FALSE,FALSE,0,0
+2005-07-13,Mexico,Jamaica,1,0,Houston,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2005-07-17,Mexico,Colombia,1,2,Houston,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2007-06-17,Mexico,Costa Rica,1,0,Houston,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2007-06-24,Mexico,USA,1,2,Chicago,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2007-06-27,Mexico,Brazil,2,0,Puerto Ordaz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-01,Mexico,Ecuador,2,1,Maturin,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-04,Mexico,Chile,0,0,Puerto La Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-08,Mexico,Paraguay,6,0,Maturin,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-11,Mexico,Argentina,0,3,Puerto Ordaz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-14,Mexico,Uruguay,3,1,Caracas,Copa America,FALSE,FALSE,FALSE,0,0
+2009-07-23,Mexico,Costa Rica,1,1,Chicago,CONCACAF Gold Cup,FALSE,TRUE,TRUE,5,3
+2009-07-26,Mexico,USA,5,0,New York,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2011-06-12,Mexico,Costa Rica,4,1,Chicago,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2011-06-25,Mexico,USA,4,2,Pasadena,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2011-07-04,Mexico,Chile,1,2,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-08,Mexico,Peru,0,1,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-12,Mexico,Uruguay,0,1,La Plata,Copa America,FALSE,FALSE,FALSE,0,0
+1997-12-16,Mexico,Brazil,2,3,Riyadh,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+1999-07-29,Mexico,Bolivia,1,0,Ciudad de Mexico,FIFA Confederations Cup,TRUE,FALSE,FALSE,0,0
+1999-08-01,Mexico,USA,1,0,Ciudad de Mexico,FIFA Confederations Cup,TRUE,TRUE,FALSE,0,0
+1999-08-04,Mexico,Brazil,4,3,Ciudad de Mexico,FIFA Confederations Cup,TRUE,FALSE,FALSE,0,0
+2005-06-19,Mexico,Brazil,1,0,Hannover,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2005-06-26,Mexico,Argentina,1,1,Hannover,FIFA Confederations Cup,FALSE,TRUE,TRUE,5,6
+2013-06-19,Mexico,Brazil,0,2,Fortaleza,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2002-06-09,Ecuador,Mexico,1,2,Rifu,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2006-06-15,Ecuador,Costa Rica,3,0,Hamburg,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-04-24,Ecuador,Peru,4,1,Guayaquil,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-06-02,Ecuador,Argentina,2,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-07-06,Ecuador,Chile,1,4,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-09-01,Ecuador,Venezuela,1,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-10-09,Ecuador,Colombia,0,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-11-10,Ecuador,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-01-12,Ecuador,Bolivia,0,2,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-02-12,Ecuador,Uruguay,4,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-02,Ecuador,Peru,1,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-04-30,Ecuador,Argentina,1,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-06-08,Ecuador,Chile,1,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-07-06,Ecuador,Venezuela,1,1,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-07-20,Ecuador,Colombia,0,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-08-20,Ecuador,Paraguay,2,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-10-12,Ecuador,Bolivia,1,0,Guayaquil,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-11-16,Ecuador,Uruguay,3,5,Maldonado,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-03-29,Ecuador,Venezuela,2,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-04-26,Ecuador,Brazil,2,3,Sao Paulo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-03,Ecuador,Paraguay,1,3,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-29,Ecuador,Peru,2,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-19,Ecuador,Argentina,0,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-25,Ecuador,Colombia,0,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-08-16,Ecuador,Bolivia,2,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-09-03,Ecuador,Uruguay,0,4,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-10-08,Ecuador,Chile,1,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-11-15,Ecuador,Venezuela,2,1,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-03-28,Ecuador,Brazil,1,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-04-24,Ecuador,Paraguay,2,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-06-02,Ecuador,Peru,2,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-08-15,Ecuador,Argentina,0,2,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-09-05,Ecuador,Colombia,0,0,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-10-06,Ecuador,Bolivia,5,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-07,Ecuador,Uruguay,1,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-14,Ecuador,Chile,0,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-06,Ecuador,Venezuela,2,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-10,Ecuador,Brazil,0,1,Manaus,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-15,Ecuador,Paraguay,1,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-19,Ecuador,Peru,0,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-03-30,Ecuador,Argentina,0,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-02,Ecuador,Colombia,2,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-05,Ecuador,Bolivia,3,2,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-09-05,Ecuador,Uruguay,0,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-10,Ecuador,Chile,2,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-14,Ecuador,Venezuela,1,3,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-11-17,Ecuador,Brazil,1,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-27,Ecuador,Paraguay,5,2,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-30,Ecuador,Peru,2,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-04,Ecuador,Argentina,Quito,2,0,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-08,Ecuador,Colombia,0,3,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-09-03,Ecuador,Bolivia,2,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-08,Ecuador,Uruguay,0,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-12,Ecuador,Chile,0,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-13,Ecuador,Venezuela,0,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-17,Ecuador,Brazil,0,5,Rio de Janeiro,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-17,Ecuador,Paraguay,1,5,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-21,Ecuador,Peru,5,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-15,Ecuador,Argentina,1,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-18,Ecuador,Colombia,0,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-06,Ecuador,Bolivia,3,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-10,Ecuador,Uruguay,0,0,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-12,Ecuador,Chile,1,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-15,Ecuador,Venezuela,1,3,Puerto La Cruz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-03-29,Ecuador,Brazil,1,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-04-01,Ecuador,Paraguay,1,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-07,Ecuador,Peru,2,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-10,Ecuador,Argentina,2,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-05,Ecuador,Colombia,0,2,Medellin,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-09,Ecuador,Bolivia,3,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-10,Ecuador,Uruguay,1,2,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-14,Ecuador,Chile,0,1,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-10-07,Ecuador,Venezuela,2,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-11-11,Ecuador,Paraguay,1,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-11-15,Ecuador,Peru,2,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-06-02,Ecuador,Argentina,0,4,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-06-10,Ecuador,Colombia,1,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-07,Ecuador,Bolivia,1,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-11,Ecuador,Uruguay,1,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-10-12,Ecuador,Chile,3,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-10-16,Ecuador,Venezuela,1,1,Puerto La Cruz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-26,Ecuador,Paraguay,4,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-07,Ecuador,Peru,0,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-11,Ecuador,Argentina,1,1,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-06,Ecuador,Colombia,0,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-10,Ecuador,Bolivia,1,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-11,Ecuador,Uruguay,1,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-10-15,Ecuador,Chile,1,2,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1995-07-07,Ecuador,Brazil,0,1,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-10,Ecuador,Colombia,0,1,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-13,Ecuador,Peru,2,1,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-11,Ecuador,Argentina,0,0,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-14,Ecuador,Paraguay,2,0,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-17,Ecuador,Chile,2,1,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-22,Ecuador,Mexico,1,1,Cochabamba,Copa America,FALSE,FALSE,TRUE,3,4
+1999-07-01,Ecuador,Argentina,1,3,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-04,Ecuador,Uruguay,1,2,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-07,Ecuador,Colombia,1,2,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-11,Ecuador,Chile,1,4,Barranquilla,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-14,Ecuador,Colombia,0,1,Barranquilla,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-17,Ecuador,Venezuela,4,0,Barranquilla,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-07,Ecuador,Argentina,1,6,Chiclayo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-10,Ecuador,Uruguay,1,2,Chiclayo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-13,Ecuador,Mexico,1,2,Piura,Copa America,FALSE,FALSE,FALSE,0,0
+2007-06-27,Ecuador,Chile,2,3,Puerto Ordaz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-01,Ecuador,Mexico,1,2,Maturin,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-04,Ecuador,Brazil,0,1,Puerto La Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-03,Ecuador,Paraguay,0,0,Santa Fe,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-09,Ecuador,Venezuela,0,1,Salta,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-13,Ecuador,Brazil,2,4,Cordoba,Copa America,FALSE,FALSE,FALSE,0,0
+1996-04-24,Bolivia,Argentina,1,3,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-07-07,Bolivia,Venezuela,6,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-09-01,Bolivia,Peru,0,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-10-08,Bolivia,Uruguay,0,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-11-10,Bolivia,Colombia,2,2,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-12-15,Bolivia,Paraguay,0,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-01-12,Bolivia,Ecuador,2,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-02-12,Bolivia,Chile,1,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-02,Bolivia,Argentina,2,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-06-08,Bolivia,Venezuela,1,1,Valera,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-07-06,Bolivia,Peru,1,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-07-20,Bolivia,Uruguay,1,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-08-20,Bolivia,Colombia,0,3,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-09-10,Bolivia,Paraguay,1,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-10-12,Bolivia,Ecuador,0,1,Guayaquil,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-11-16,Bolivia,Chile,0,3,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-03-29,Bolivia,Uruguay,0,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-04-26,Bolivia,Colombia,1,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-04,Bolivia,Argentina,0,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-28,Bolivia,Venezuela,2,4,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-19,Bolivia,Chile,1,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-27,Bolivia,Paraguay,0,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-08-16,Bolivia,Ecuador,0,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-09-03,Bolivia,Brazil,0,5,Rio de Janeiro,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-10-08,Bolivia,Peru,1,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-11-15,Bolivia,Uruguay,0,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-03-27,Bolivia,Colombia,0,2,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-04-25,Bolivia,Argentina,3,3,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-06-03,Bolivia,Venezuela,5,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-08-14,Bolivia,Chile,2,2,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-09-05,Bolivia,Paraguay,1,5,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-10-06,Bolivia,Ecuador,1,5,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-07,Bolivia,Brazil,3,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-14,Bolivia,Peru,1,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-07,Bolivia,Uruguay,0,5,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-10,Bolivia,Colombia,4,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-15,Bolivia,Argentina,0,3,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-18,Bolivia,Venezuela,1,2,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-03-30,Bolivia,Chile,0,2,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-01,Bolivia,Paraguay,2,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-05,Bolivia,Ecuador,2,3,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-09-05,Bolivia,Brazil,1,3,Sao Paulo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-09,Bolivia,Peru,1,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-12,Bolivia,Uruguay,0,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-11-17,Bolivia,Colombia,0,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-26,Bolivia,Argentina,1,2,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-29,Bolivia,Venezuela,3,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-04,Bolivia,Chile,1,3,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-08,Bolivia,Paraguay,1,4,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-09-03,Bolivia,Ecuador,1,2,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-09,Bolivia,Brazil,1,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-12,Bolivia,Peru,1,4,Tacna,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-13,Bolivia,Uruguay,0,5,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-17,Bolivia,Colombia,0,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-17,Bolivia,Argentina,0,3,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-20,Bolivia,Venezuela,3,5,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-15,Bolivia,Chile,0,2,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-18,Bolivia,Paraguay,4,2,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-06,Bolivia,Ecuador,1,3,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-10,Bolivia,Brazil,0,0,Rio de Janeiro,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-11,Bolivia,Peru,3,0,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-14,Bolivia,Uruguay,2,2,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-03-28,Bolivia,Colombia,0,2,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-04-01,Bolivia,Argentina,6,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-06,Bolivia,Venezuela,0,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-10,Bolivia,Chile,0,4,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-05,Bolivia,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-09,Bolivia,Ecuador,1,3,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-11,Bolivia,Brazil,2,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-14,Bolivia,Peru,0,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-10-07,Bolivia,Uruguay,2,4,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-10-11,Bolivia,Colombia,1,2,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-11-11,Bolivia,Argentina,1,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-11-15,Bolivia,Venezuela,0,1,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-06-02,Bolivia,Chile,0,2,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-06-09,Bolivia,Paraguay,3,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-07,Bolivia,Ecuador,0,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-10-12,Bolivia,Peru,1,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-10-16,Bolivia,Uruguay,4,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-03-22,Bolivia,Colombia,0,5,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-26,Bolivia,Argentina,1,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-07,Bolivia,Venezuela,1,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-11,Bolivia,Chile,1,3,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-06,Bolivia,Paraguay,0,4,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-10,Bolivia,Ecuador,1,1,La Paz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-10-15,Bolivia,Peru,1,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1995-07-08,Bolivia,Argentina,1,2,Paysandu,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-11,Bolivia,USA,1,0,Paysandu,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-14,Bolivia,Chile,2,2,Paysandu,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-16,Bolivia,Uruguay,1,2,Montevideo,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-12,Bolivia,Venezuela,1,0,La Paz,Copa America,TRUE,FALSE,FALSE,0,0
+1997-06-15,Bolivia,Peru,2,0,La Paz,Copa America,TRUE,FALSE,FALSE,0,0
+1997-06-18,Bolivia,Uruguay,1,0,La Paz,Copa America,TRUE,FALSE,FALSE,0,0
+1997-06-21,Bolivia,Colombia,2,1,La Paz,Copa America,TRUE,FALSE,FALSE,0,0
+1997-06-25,Bolivia,Mexico,3,1,La Paz,Copa America,TRUE,FALSE,FALSE,0,0
+1997-06-29,Bolivia,Brazil,1,3,La Paz,Copa America,TRUE,FALSE,FALSE,0,0
+1999-06-29,Bolivia,Paraguay,0,0,Asuncion,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-02,Bolivia,Peru,0,1,Asuncion,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-13,Bolivia,Uruguay,0,1,Medellin,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-19,Bolivia,Costa Rica,0,4,Medellin,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-06,Bolivia,Peru,2,2,Lima,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-09,Bolivia,Colombia,0,1,Lima,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-12,Bolivia,Venezuela,1,1,Trujillo,Copa America,FALSE,FALSE,FALSE,0,0
+2007-06-26,Bolivia,Venezuela,2,2,San Cristobal,Copa America,FALSE,FALSE,FALSE,0,0
+2007-06-30,Bolivia,Uruguay,0,1,San Cristobal,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-03,Bolivia,Peru,2,2,Merida,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-01,Bolivia,Argentina,1,1,La Plata,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-07,Bolivia,Costa Rica,0,2,Jujuy,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-10,Bolivia,Colombia,0,2,Santa Fe,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-29,Bolivia,Mexico,0,1,Ciudad de Mexico,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2010-06-22,Uruguay,Mexico,1,0,Phokeng,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2014-06-19,Uruguay,Costa Rica,1,3,Fortaleza,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2014-06-28,Uruguay,Colombia,0,2,Rio de Janeiro,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-04-24,Uruguay,Venezuela,2,0,Caracas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-06-02,Uruguay,Paraguay,0,2,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-07-07,Uruguay,Colombia,1,3,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-10-08,Uruguay,Bolivia,1,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-11-12,Uruguay,Chile,0,1,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-12-15,Uruguay,Peru,2,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-01-12,Uruguay,Argentina,0,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-02-12,Uruguay,Ecuador,0,4,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-04-02,Uruguay,Venezuela,3,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-30,Uruguay,Paraguay,1,3,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-06-08,Uruguay,Colombia,1,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-07-20,Uruguay,Bolivia,0,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-08-20,Uruguay,Chile,1,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-09-10,Uruguay,Peru,1,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-10-12,Uruguay,Argentina,0,0,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-11-16,Uruguay,Ecuador,5,3,Maldonado,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-03-29,Uruguay,Bolivia,1,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-04-26,Uruguay,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-03,Uruguay,Chile,2,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-28,Uruguay,Brazil,1,1,Rio de Janeiro,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-18,Uruguay,Venezuela,3,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-26,Uruguay,Peru,0,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-08-15,Uruguay,Colombia,0,1,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-09-03,Uruguay,Ecuador,4,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-10-08,Uruguay,Argentina,1,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-11-15,Uruguay,Bolivia,0,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-03-28,Uruguay,Paraguay,0,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-04-24,Uruguay,Chile,1,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-07-01,Uruguay,Brazil,1,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-08-14,Uruguay,Venezuela,0,2,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-09-04,Uruguay,Peru,2,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-10-07,Uruguay,Colombia,1,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-07,Uruguay,Ecuador,1,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-14,Uruguay,Argentina,1,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-07,Uruguay,Bolivia,5,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-10,Uruguay,Paraguay,1,4,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-15,Uruguay,Chile,2,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-19,Uruguay,Brazil,3,3,Curitiba,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-03-31,Uruguay,Venezuela,0,3,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-01,Uruguay,Peru,1,3,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-06,Uruguay,Colombia,0,5,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-09-05,Uruguay,Ecuador,1,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-09,Uruguay,Argentina,2,4,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-12,Uruguay,Bolivia,0,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-11-17,Uruguay,Paraguay,1,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-26,Uruguay,Chile,1,1,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-30,Uruguay,Brazil,1,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-04,Uruguay,Venezuela,1,1,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-07,Uruguay,Peru,0,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-09-04,Uruguay,Colombia,3,2,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-08,Uruguay,Ecuador,0,0,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-12,Uruguay,Argentina,1,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-13,Uruguay,Bolivia,5,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-17,Uruguay,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-18,Uruguay,Chile,2,2,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-21,Uruguay,Brazil,1,2,Sao Paulo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-14,Uruguay,Venezuela,1,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-17,Uruguay,Peru,6,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-06,Uruguay,Colombia,1,0,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-10,Uruguay,Ecuador,0,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-11,Uruguay,Argentina,1,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-14,Uruguay,Bolivia,2,2,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-03-28,Uruguay,Paraguay,2,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-04-01,Uruguay,Chile,0,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-06,Uruguay,Brazil,0,4,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-10,Uruguay,Venezuela,2,2,Puerto Ordaz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-05,Uruguay,Peru,0,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-09,Uruguay,Colombia,3,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-10,Uruguay,Ecuador,2,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-14,Uruguay,Argentina,0,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-11-14,Uruguay,Costa Rica,1,0,Tibas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-11-18,Uruguay,Costa Rica,1,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-10-07,Uruguay,Bolivia,4,2,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-10-11,Uruguay,Paraguay,1,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-11-11,Uruguay,Chile,4,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-06-02,Uruguay,Venezuela,1,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-06-10,Uruguay,Peru,4,2,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-07,Uruguay,Colombia,0,4,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-11,Uruguay,Ecuador,1,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-10-12,Uruguay,Argentina,0,3,Mendoza,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-10-16,Uruguay,Bolivia,1,4,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-22,Uruguay,Paraguay,1,1,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-03-26,Uruguay,Chile,0,2,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-11,Uruguay,Venezuela,1,0,Puerto Ordaz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-06,Uruguay,Peru,2,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-10,Uruguay,Colombia,2,0,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-10-11,Uruguay,Ecuador,0,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-15,Uruguay,Argentina,3,2,Montevideo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1995-07-05,Uruguay,Venezuela,4,1,Montevideo,Copa America,TRUE,FALSE,FALSE,0,0
+1995-07-09,Uruguay,Paraguay,1,0,Montevideo,Copa America,TRUE,FALSE,FALSE,0,0
+1995-07-13,Uruguay,Mexico,1,1,Montevideo,Copa America,TRUE,FALSE,FALSE,0,0
+1995-07-16,Uruguay,Bolivia,2,1,Montevideo,Copa America,TRUE,FALSE,FALSE,0,0
+1995-07-19,Uruguay,Colombia,2,0,Montevideo,Copa America,TRUE,FALSE,FALSE,0,0
+1995-07-23,Uruguay,Brazil,1,1,Montevideo,Copa America,TRUE,FALSE,TRUE,5,3
+1997-06-12,Uruguay,Peru,0,1,Sucre,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-15,Uruguay,Venezuela,2,0,Sucre,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-18,Uruguay,Bolivia,0,1,La Paz,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-01,Uruguay,Colombia,0,1,Asuncion,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-04,Uruguay,Ecuador,2,1,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-07,Uruguay,Argentina,0,2,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-10,Uruguay,Paraguay,1,1,Asuncion,Copa America,FALSE,FALSE,TRUE,5,3
+1999-07-13,Uruguay,Chile,1,1,Asuncion,Copa America,FALSE,FALSE,TRUE,5,3
+1999-07-18,Uruguay,Brazil,0,3,Asuncion,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-13,Uruguay,Bolivia,1,0,Medellin,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-16,Uruguay,Costa Rica,1,1,Medellin,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-22,Uruguay,Costa Rica,2,1,Armenia,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-25,Uruguay,Mexico,1,2,Pereira,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-07,Uruguay,Mexico,2,2,Chiclayo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-10,Uruguay,Ecuador,2,1,Chiclayo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-13,Uruguay,Argentina,2,4,Piura,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-18,Uruguay,Paraguay,3,1,Tacna,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-21,Uruguay,Brazil,1,1,Lima,Copa America,FALSE,FALSE,TRUE,3,5
+2004-07-24,Uruguay,Colombia,2,1,Cusco,Copa America,FALSE,FALSE,FALSE,0,0
+2007-06-26,Uruguay,Peru,0,3,Merida,Copa America,FALSE,FALSE,FALSE,0,0
+2007-06-30,Uruguay,Bolivia,1,0,San Cristobal,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-03,Uruguay,Venezuela,0,0,Merida,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-07,Uruguay,Venezuela,4,1,San Cristobal,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-10,Uruguay,Brazil,2,2,Maracaibo,Copa America,FALSE,FALSE,TRUE,4,5
+2007-07-14,Uruguay,Mexico,1,3,Caracas,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-04,Uruguay,Peru,1,1,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-08,Uruguay,Chile,1,1,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-12,Uruguay,Mexico,1,0,La Plata,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-16,Uruguay,Argentina,1,1,Santa Fe,Copa America,FALSE,TRUE,TRUE,5,4
+2011-07-19,Uruguay,Peru,2,0,La Plata,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-24,Uruguay,Paraguay,3,0,Buenos Aires,Copa America,FALSE,FALSE,FALSE,0,0
+2013-06-26,Uruguay,Brazil,1,2,Belo Horizonte,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+1996-04-24,Paraguay,Colombia,0,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-06-02,Paraguay,Uruguay,2,0,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-09-01,Paraguay,Argentina,1,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-10-09,Paraguay,Chile,2,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-11-10,Paraguay,Ecuador,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-12-15,Paraguay,Bolivia,0,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-01-12,Paraguay,Venezuela,2,0,Merida,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-02-12,Paraguay,Peru,2,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-02,Paraguay,Colombia,2,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-30,Paraguay,Uruguay,3,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-07-06,Paraguay,Argentina,1,2,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-07-20,Paraguay,Chile,1,2,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-08-20,Paraguay,Ecuador,1,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-09-10,Paraguay,Bolivia,2,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-10-12,Paraguay,Venezuela,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-11-16,Paraguay,Peru,0,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-03-29,Paraguay,Peru,0,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-04-26,Paraguay,Uruguay,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-03,Paraguay,Ecuador,3,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-29,Paraguay,Chile,1,3,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-18,Paraguay,Brazil,2,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-27,Paraguay,Bolivia,0,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-08-16,Paraguay,Argentina,1,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-09-02,Paraguay,Venezuela,3,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-10-07,Paraguay,Colombia,2,0,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-11-15,Paraguay,Peru,5,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-03-28,Paraguay,Uruguay,1,0,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-04-24,Paraguay,Ecuador,1,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-06-02,Paraguay,Chile,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-08-15,Paraguay,Brazil,0,2,Porto Alegre,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-09-05,Paraguay,Bolivia,5,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-10-07,Paraguay,Argentina,2,2,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-08,Paraguay,Venezuela,1,3,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-14,Paraguay,Colombia,0,4,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-06,Paraguay,Peru,1,4,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-10,Paraguay,Uruguay,4,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-15,Paraguay,Ecuador,2,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-18,Paraguay,Chile,1,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-03-31,Paraguay,Brazil,0,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-01,Paraguay,Bolivia,1,2,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-06,Paraguay,Argentina,0,0,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-09-05,Paraguay,Venezuela,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-09,Paraguay,Colombia,1,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-13,Paraguay,Peru,1,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-11-17,Paraguay,Uruguay,0,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-27,Paraguay,Ecuador,2,5,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-30,Paraguay,Chile,2,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-05,Paraguay,Brazil,1,4,Porto Alegre,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-08,Paraguay,Bolivia,4,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-09-03,Paraguay,Argentina,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-08,Paraguay,Venezuela,1,0,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-12,Paraguay,Colombia,0,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-13,Paraguay,Peru,0,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-17,Paraguay,Uruguay,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-17,Paraguay,Ecuador,5,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-21,Paraguay,Chile,3,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-15,Paraguay,Brazil,2,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-18,Paraguay,Bolivia,4,2,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-06,Paraguay,Argentina,1,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-09,Paraguay,Venezuela,2,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-11,Paraguay,Colombia,1,0,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-15,Paraguay,Peru,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-03-28,Paraguay,Uruguay,0,2,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-04-01,Paraguay,Ecuador,1,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-06,Paraguay,Chile,0,2,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-10,Paraguay,Brazil,1,2,Recife,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-05,Paraguay,Bolivia,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-09,Paraguay,Argentina,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-10,Paraguay,Venezuela,2,1,Puerto Ordaz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-14,Paraguay,Colombia,Asuncion,0,2,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-10-07,Paraguay,Peru,0,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-10-11,Paraguay,Uruguay,1,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-11-11,Paraguay,Ecuador,2,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-11-15,Paraguay,Chile,0,2,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-06-09,Paraguay,Bolivia,1,3,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-07,Paraguay,Argentina,1,3,Cordoba,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-11,Paraguay,Venezuela,0,2,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-10-12,Paraguay,Colombia,0,2,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-10-16,Paraguay,Peru,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-03-22,Paraguay,Uruguay,1,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-26,Paraguay,Ecuador,1,4,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-07,Paraguay,Chile,1,2,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-06,Paraguay,Bolivia,4,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-10,Paraguay,Argentina,2,5,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-10-11,Paraguay,Venezuela,1,1,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-15,Paraguay,Colombia,1,2,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1995-07-06,Paraguay,Mexico,2,1,Maldonado,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-09,Paraguay,Uruguay,0,1,Montevideo,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-12,Paraguay,Venezuela,3,2,Maldonado,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-16,Paraguay,Colombia,1,1,Montevideo,Copa America,FALSE,FALSE,TRUE,4,5
+1997-06-11,Paraguay,Chile,1,0,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-14,Paraguay,Ecuador,0,2,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-17,Paraguay,Argentina,1,1,Cochabamba,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-22,Paraguay,Brazil,0,2,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1999-06-29,Paraguay,Bolivia,0,0,Asuncion,Copa America,TRUE,FALSE,FALSE,0,0
+1999-07-05,Paraguay,Peru,1,0,Pedro Juan Caballero,Copa America,TRUE,FALSE,FALSE,0,0
+1999-07-10,Paraguay,Uruguay,1,1,Asuncion,Copa America,TRUE,FALSE,TRUE,3,5
+2001-07-12,Paraguay,Peru,3,3,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-15,Paraguay,Mexico,0,0,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-18,Paraguay,Brazil,1,3,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-08,Paraguay,Costa Rica,1,0,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-11,Paraguay,Chile,1,1,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-14,Paraguay,Brazil,2,1,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-18,Paraguay,Uruguay,1,3,Tacna,Copa America,FALSE,FALSE,FALSE,0,0
+2007-06-28,Paraguay,Colombia,5,0,Maracaibo,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-02,Paraguay,USA,3,1,Barinas,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-05,Paraguay,Argentina,0,1,Barquisimeto,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-08,Paraguay,Mexico,0,6,Maturin,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-03,Paraguay,Ecuador,0,0,Santa Fe,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-09,Paraguay,Brazil,2,2,Cordoba,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-13,Paraguay,Venezuela,3,3,Salta,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-17,Paraguay,Brazil,0,0,La Plata,Copa America,FALSE,TRUE,TRUE,2,0
+2011-07-20,Paraguay,Venezuela,0,0,Mendoza,Copa America,FALSE,TRUE,TRUE,5,3
+2011-07-24,Paraguay,Uruguay,0,3,Buenos Aires,Copa America,FALSE,FALSE,FALSE,0,0
+1998-06-21,Jamaica,Argentina,0,5,Paris,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-10-16,Jamaica,Mexico,1,2,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-11-17,Jamaica,Mexico,1,0,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-03-02,Jamaica,USA,0,0,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-13,Jamaica,Mexico,0,6,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-05-11,Jamaica,Costa Rica,1,3,Tibas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-09-14,Jamaica,Costa Rica,1,0,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-10-03,Jamaica,USA,1,1,Washington DC,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-11-16,Jamaica,Mexico,0,0,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-03-25,Jamaica,Mexico,0,4,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-06-16,Jamaica,USA,0,0,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-06-20,Jamaica,Costa Rica,San Jose,1,2,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-09-02,Jamaica,Mexico,1,2,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-10-07,Jamaica,USA,1,2,Foxboro,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-11,Jamaica,Costa Rica,0,1,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-08-18,Jamaica,USA,1,1,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-11-17,Jamaica,USA,1,1,Columbus,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-06,Jamaica,Mexico,0,3,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-11,Jamaica,Mexico,1,0,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-07,Jamaica,USA,2,1,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-11,Jamaica,USA,0,1,Columbus,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-02-06,Jamaica,Mexico,0,0,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-26,Jamaica,Costa Rica,0,2,San Jose,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-04,Jamaica,Mexico,0,1,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-07,Jamaica,USA,1,2,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-10,Jamaica,Costa Rica,1,1,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-10-11,Jamaica,USA,0,2,Kansas City,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1998-02-03,Jamaica,Brazil,0,0,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+1998-02-12,Jamaica,Mexico,0,1,Los Angeles,CONCACAF Gold Cup,FALSE,TRUE,FALSE,0,0
+1998-02-15,Jamaica,Brazil,0,1,Los Angeles,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2000-02-12,Jamaica,Colombia,0,1,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2003-07-13,Jamaica,Colombia,0,1,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2003-07-20,Jamaica,Mexico,0,5,Ciudad de Mexico,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2005-07-13,Jamaica,Mexico,0,1,Houston,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2005-07-16,Jamaica,USA,1,3,Foxborough,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2009-07-07,Jamaica,Costa Rica,0,1,Columbus,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2011-06-19,Jamaica,USA,0,2,Washington DC,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+1998-06-27,Brazil,Chile,4,1,Paris,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2002-06-13,Brazil,Costa Rica,5,2,Suwon,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2010-06-28,Brazil,Chile,3,0,Johannesburg,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2014-06-17,Brazil,Mexico,0,0,Fortaleza,FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2014-06-28,Brazil,Chile,1,1,Belo Horizonte,FIFA World Cup,TRUE,TRUE,TRUE,3,2
+2000-03-28,Brazil,Colombia,0,0,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-04-26,Brazil,Ecuador,3,2,Sao Paulo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-04,Brazil,Peru,1,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-28,Brazil,Uruguay,1,1,Rio de Janeiro,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-18,Brazil,Paraguay,1,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-26,Brazil,Argentina,3,1,Sao Paulo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-08-15,Brazil,Chile,0,3,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-09-03,Brazil,Bolivia,5,0,Rio de Janeiro,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-10-08,Brazil,Venezuela,6,0,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-11-15,Brazil,Colombia,1,0,Sao Paulo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-03-28,Brazil,Ecuador,0,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-04-25,Brazil,Peru,1,1,Sao Paulo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-07-01,Brazil,Uruguay,0,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-08-15,Brazil,Paraguay,2,0,Porto Alegre,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-09-05,Brazil,Argentina,1,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-10-07,Brazil,Chile,2,0,Curitiba,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-07,Brazil,Bolivia,1,3,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-14,Brazil,Venezuela,3,0,Sao Luiz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-07,Brazil,Colombia,2,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-10,Brazil,Ecuador,1,0,Manaus,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-16,Brazil,Peru,1,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-19,Brazil,Uruguay,3,3,Curitiba,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-03-31,Brazil,Paraguay,0,0,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-02,Brazil,Argentina,3,1,Belo Horizonte,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-06,Brazil,Chile,1,1,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-09-05,Brazil,Bolivia,3,1,Sao Paulo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-09,Brazil,Venezuela,5,2,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-13,Brazil,Colombia,0,0,Maceio,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-11-17,Brazil,Ecuador,0,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-27,Brazil,Peru,1,0,Goiania,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-30,Brazil,Uruguay,1,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-05,Brazil,Paraguay,4,1,Porto Alegre,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-08,Brazil,Argentina,1,3,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-09-04,Brazil,Chile,5,0,Brasilia,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-09,Brazil,Bolivia,1,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-12,Brazil,Venezuela,3,0,Belem,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-14,Brazil,Colombia,0,0,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-17,Brazil,Ecuador,5,0,Rio de Janeiro,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-18,Brazil,Peru,1,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-21,Brazil,Uruguay,2,1,Sao Paulo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-15,Brazil,Paraguay,0,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-18,Brazil,Argentina,0,0,Belo Horizonte,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-07,Brazil,Chile,3,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-10,Brazil,Bolivia,0,0,Rio de Janeiro,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-12,Brazil,Venezuela,4,0,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-15,Brazil,Colombia,0,0,Rio de Janeiro,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-03-29,Brazil,Ecuador,1,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-04-01,Brazil,Peru,3,0,Porto Alegre,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-06,Brazil,Uruguay,4,0,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-10,Brazil,Paraguay,2,1,Recife,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-05,Brazil,Argentina,3,1,Rosario,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-09,Brazil,Chile,4,2,Salvador,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-11,Brazil,Bolivia,1,2,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-14,Brazil,Venezuela,0,0,Campo Grande,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1995-07-07,Brazil,Ecuador,1,0,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-10,Brazil,Peru,2,0,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-13,Brazil,Colombia,3,0,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-17,Brazil,Argentina,2,2,Rivera,Copa America,FALSE,FALSE,TRUE,4,2
+1995-07-20,Brazil,USA,1,0,Maldonado,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-23,Brazil,Uruguay,1,1,Montevideo,Copa America,FALSE,FALSE,TRUE,3,5
+1996-01-18,Brazil,USA,1,0,San Diego,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+1996-01-21,Brazil,Mexico,0,2,Los Angeles,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+1997-06-13,Brazil,Costa Rica,5,0,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-16,Brazil,Mexico,3,2,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-19,Brazil,Colombia,2,0,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-22,Brazil,Paraguay,2,0,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-26,Brazil,Peru,7,0,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-29,Brazil,Bolivia,3,1,La Paz,Copa America,FALSE,FALSE,FALSE,0,0
+1998-02-03,Brazil,Jamaica,0,0,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+1998-02-10,Brazil,USA,0,1,Los Angeles,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+1998-02-15,Brazil,Jamaica,1,0,Los Angeles,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+1999-06-30,Brazil,Venezuela,7,0,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-03,Brazil,Mexico,2,1,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-06,Brazil,Chile,1,0,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-11,Brazil,Argentina,2,1,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-14,Brazil,Mexico,2,0,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-18,Brazil,Uruguay,3,0,Asuncion,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-12,Brazil,Mexico,0,1,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-15,Brazil,Peru,2,0,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-18,Brazil,Paraguay,3,1,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2003-07-13,Brazil,Mexico,0,1,Ciudad de Mexico,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2003-07-19,Brazil,Colombia,2,0,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2003-07-23,Brazil,USA,2,1,Miami,CONCACAF Gold Cup,FALSE,TRUE,FALSE,0,0
+2003-07-27,Brazil,Mexico,0,1,Ciudad de Mexico,CONCACAF Gold Cup,FALSE,TRUE,FALSE,0,0
+2004-07-08,Brazil,Chile,1,0,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-11,Brazil,Costa Rica,4,1,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-14,Brazil,Paraguay,1,2,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-18,Brazil,Mexico,4,0,Piura,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-21,Brazil,Uruguay,1,1,Lima,Copa America,FALSE,FALSE,TRUE,5,3
+2004-07-25,Brazil,Argentina,2,2,Lima,Copa America,FALSE,FALSE,TRUE,4,2
+2007-06-27,Brazil,Mexico,0,2,Puerto Ordaz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-01,Brazil,Chile,3,0,Maturin,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-04,Brazil,Ecuador,1,0,Puerto La Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-07,Brazil,Chile,6,1,Puerto La Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-10,Brazil,Uruguay,2,2,Maracaibo,Copa America,FALSE,FALSE,TRUE,5,4
+2007-07-15,Brazil,Argentina,3,0,Maracaibo,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-03,Brazil,Venezuela,0,0,La Plata,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-09,Brazil,Paraguay,2,2,Cordoba,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-13,Brazil,Ecuador,4,2,Cordoba,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-17,Brazil,Paraguay,0,0,La Plata,Copa America,FALSE,TRUE,TRUE,0,2
+1997-12-16,Brazil,Mexico,3,2,Riyadh,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+1999-07-28,Brazil,USA,1,0,Guadalajara,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+1999-08-04,Brazil,Mexico,3,4,Ciudad de Mexico,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2003-06-21,Brazil,USA,1,0,Lyon,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2005-06-19,Brazil,Mexico,0,1,Hannover,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2005-06-29,Brazil,Argentina,4,1,Frankfurt am Main,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2009-06-18,Brazil,USA,3,0,Tshwane Pretoria,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2009-06-28,Brazil,USA,3,2,Johannesburg,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2013-06-19,Brazil,Mexico,2,0,Fortaleza,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2013-06-26,Brazil,Uruguay,2,1,Belo Horizonte,FIFA Confederations Cup,FALSE,FALSE,FALSE,0,0
+2014-06-28,Colombia,Uruguay,2,0,Rio de Janeiro,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2014-07-04,Colombia,Brazil,1,2,Fortaleza,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-04-24,Colombia,Paraguay,1,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-06-02,Colombia,Peru,1,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-07-07,Colombia,Uruguay,3,1,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-09-01,Colombia,Chile,4,1,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-10-09,Colombia,Ecuador,1,0,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-11-10,Colombia,Bolivia,2,2,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-12-15,Colombia,Venezuela,2,0,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-02-12,Colombia,Argentina,0,1,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-02,Colombia,Paraguay,1,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-04-30,Colombia,Peru,0,1,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-06-08,Colombia,Uruguay,1,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-07-05,Colombia,Chile,1,4,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-07-20,Colombia,Ecuador,1,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-08-20,Colombia,Bolivia,3,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-09-10,Colombia,Venezuela,1,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-11-16,Colombia,Argentina,1,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-03-28,Colombia,Brazil,0,0,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-04-26,Colombia,Bolivia,1,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-04,Colombia,Venezuela,3,0,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-29,Colombia,Argentina,1,3,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-19,Colombia,Peru,1,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-25,Colombia,Ecuador,0,0,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-08-15,Colombia,Uruguay,1,0,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-09-02,Colombia,Chile,1,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-10-07,Colombia,Paraguay,0,2,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-11-15,Colombia,Brazil,0,1,Sao Paulo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-03-27,Colombia,Bolivia,2,0,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-04-24,Colombia,Venezuela,2,2,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-06-03,Colombia,Argentina,0,3,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-08-16,Colombia,Peru,0,1,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-09-05,Colombia,Ecuador,0,0,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-10-07,Colombia,Uruguay,1,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-07,Colombia,Chile,3,1,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-14,Colombia,Paraguay,4,0,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-07,Colombia,Brazil,1,2,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-10,Colombia,Bolivia,0,4,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-15,Colombia,Venezuela,0,1,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-19,Colombia,Argentina,1,1,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-03-31,Colombia,Peru,2,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-02,Colombia,Ecuador,1,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-06,Colombia,Uruguay,5,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-09-05,Colombia,Chile,0,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-09,Colombia,Paraguay,1,1,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-13,Colombia,Brazil,0,0,Maceio,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-11-17,Colombia,Bolivia,1,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-26,Colombia,Venezuela,0,0,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-30,Colombia,Argentina,0,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-04,Colombia,Peru,5,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-08,Colombia,Ecuador,3,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-09-04,Colombia,Uruguay,2,3,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-08,Colombia,Chile,1,1,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-12,Colombia,Paraguay,1,0,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-14,Colombia,Brazil,0,0,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-17,Colombia,Bolivia,0,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-17,Colombia,Venezuela,1,0,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-20,Colombia,Argentina,2,1,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-14,Colombia,Peru,1,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-18,Colombia,Ecuador,0,0,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-06,Colombia,Uruguay,0,1,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-10,Colombia,Chile,0,4,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-11,Colombia,Paraguay,0,1,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-15,Colombia,Brazil,0,0,Rio de Janeiro,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-03-28,Colombia,Bolivia,2,0,Bogota,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-03-31,Colombia,Venezuela,0,2,Puerto Ordaz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-06,Colombia,Argentina,0,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-10,Colombia,Peru,1,0,Medellin,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-05,Colombia,Ecuador,2,0,Medellin,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-09,Colombia,Uruguay,1,3,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-10,Colombia,Chile,2,4,Medellin,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-14,Colombia,Paraguay,2,0,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-10-11,Colombia,Bolivia,2,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-11-11,Colombia,Venezuela,1,1,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-11-15,Colombia,Argentina,1,2,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-06-03,Colombia,Peru,1,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-06-10,Colombia,Ecuador,0,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-07,Colombia,Uruguay,4,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-11,Colombia,Chile,3,1,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-10-12,Colombia,Paraguay,2,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-03-22,Colombia,Bolivia,5,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-03-26,Colombia,Venezuela,0,1,Puerto Ordaz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-07,Colombia,Argentina,0,0,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-11,Colombia,Peru,2,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-06,Colombia,Ecuador,1,0,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-10,Colombia,Uruguay,0,2,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-11,Colombia,Chile,3,3,Barranquilla,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-10-15,Colombia,Paraguay,2,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1995-07-07,Colombia,Peru,1,1,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-10,Colombia,Ecuador,1,0,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-13,Colombia,Brazil,0,3,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-16,Colombia,Paraguay,1,1,Montevideo,Copa America,FALSE,FALSE,TRUE,5,4
+1995-07-19,Colombia,Uruguay,0,2,Montevideo,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-22,Colombia,USA,4,1,Maldonado,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-13,Colombia,Mexico,1,2,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-16,Colombia,Costa Rica,4,1,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-19,Colombia,Brazil,0,2,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-21,Colombia,Bolivia,1,2,La Paz,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-01,Colombia,Uruguay,1,0,Asuncion,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-04,Colombia,Argentina,3,0,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-07,Colombia,Ecuador,2,1,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-11,Colombia,Chile,2,3,Luque,Copa America,FALSE,FALSE,FALSE,0,0
+2000-02-12,Colombia,Jamaica,1,0,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2000-02-19,Colombia,USA,2,2,Miami,CONCACAF Gold Cup,FALSE,TRUE,TRUE,2,1
+2000-02-23,Colombia,Peru,2,1,Los Angeles,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2001-07-11,Colombia,Venezuela,2,0,Barranquilla,Copa America,TRUE,FALSE,FALSE,0,0
+2001-07-14,Colombia,Ecuador,1,0,Barranquilla,Copa America,TRUE,FALSE,FALSE,0,0
+2001-07-17,Colombia,Chile,2,0,Barranquilla,Copa America,TRUE,FALSE,FALSE,0,0
+2001-07-23,Colombia,Peru,3,0,Armenia,Copa America,TRUE,FALSE,FALSE,0,0
+2001-07-29,Colombia,Mexico,1,0,Bogota,Copa America,TRUE,FALSE,FALSE,0,0
+2003-07-13,Colombia,Jamaica,1,0,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2003-07-19,Colombia,Brazil,0,2,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2004-07-06,Colombia,Venezuela,1,0,Lima,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-09,Colombia,Bolivia,1,0,Lima,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-12,Colombia,Peru,2,2,Trujillo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-17,Colombia,Costa Rica,2,0,Trujillo,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-20,Colombia,Argentina,0,3,Lima,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-24,Colombia,Uruguay,1,2,Cusco,Copa America,FALSE,FALSE,FALSE,0,0
+2005-07-17,Colombia,Mexico,2,1,Houston,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2007-06-28,Colombia,Paraguay,0,5,Maracaibo,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-02,Colombia,Argentina,2,4,Maracaibo,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-05,Colombia,USA,1,0,Barquisimeto,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-02,Colombia,Costa Rica,1,0,Jujuy,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-06,Colombia,Argentina,0,0,Cordoba,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-10,Colombia,Bolivia,2,0,Santa Fe,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-16,Colombia,Peru,0,2,Cordoba,Copa America,FALSE,TRUE,FALSE,0,0
+1996-04-24,Peru,Ecuador,1,4,Guayaquil,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-06-02,Peru,Colombia,1,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-07-07,Peru,Argentina,0,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-09-01,Peru,Bolivia,0,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-11-10,Peru,Venezuela,4,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-12-15,Peru,Uruguay,0,2,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-01-12,Peru,Chile,2,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-02-12,Peru,Paraguay,1,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-04-02,Peru,Ecuador,1,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-39,Peru,Colombia,1,0,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-06-08,Peru,Argentina,0,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-07-06,Peru,Bolivia,2,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-08-20,Peru,Venezuela,3,0,Barinas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-09-10,Peru,Uruguay,2,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-10-12,Peru,Chile,0,4,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-11-16,Peru,Paraguay,1,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-03-29,Peru,Paraguay,2,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-04-26,Peru,Chile,1,1,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-04,Peru,Brazil,0,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-29,Peru,Ecuador,1,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-19,Peru,Colombia,0,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-26,Peru,Uruguay,0,0,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-08-16,Peru,Venezuela,1,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-09-03,Peru,Argentina,1,2,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-10-08,Peru,Bolivia,0,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-11-15,Peru,Paraguay,1,5,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-03-27,Peru,Chile,3,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-04-25,Peru,Brazil,1,1,Sao Paulo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-06-02,Peru,Ecuador,1,2,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-08-16,Peru,Colombia,1,0,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-09-04,Peru,Uruguay,0,2,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-10-06,Peru,Venezuela,0,3,San Cristobal,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-08,Peru,Argentina,0,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-11-14,Peru,Bolivia,1,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-06,Peru,Paraguay,4,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-09-09,Peru,Chile,1,2,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-16,Peru,Brazil,1,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-19,Peru,Ecuador,0,0,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-03-31,Peru,Colombia,0,2,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-01,Peru,Uruguay,3,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-06,Peru,Venezuela,0,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-09-04,Peru,Argentina,1,3,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-09,Peru,Bolivia,0,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-13,Peru,Paraguay,1,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-11-17,Peru,Chile,2,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-27,Peru,Brazil,0,1,Goiania,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-30,Peru,Ecuador,2,2,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-04,Peru,Colombia,0,5,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-07,Peru,Uruguay,0,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-09-03,Peru,Venezuela,1,4,Maracaibo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-09,Peru,Argentina,0,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-12,Peru,Bolivia,4,1,Tacna,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-13,Peru,Paraguay,0,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-10-17,Peru,Chile,0,2,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-18,Peru,Brazil,1,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-21,Peru,Ecuador,1,5,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-14,Peru,Colombia,1,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-17,Peru,Uruguay,0,6,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-06,Peru,Venezuela,1,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-10,Peru,Argentina,1,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-11,Peru,Bolivia,0,3,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-15,Peru,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-03-29,Peru,Chile,1,3,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-04-01,Peru,Brazil,0,3,Porto Alegre,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-07,Peru,Ecuador,1,2,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-10,Peru,Colombia,0,1,Medellin,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-05,Peru,Uruguay,1,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-09,Peru,Venezuela,1,3,Puerto La Cruz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-10,Peru,Argentina,1,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-10-14,Peru,Bolivia,1,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-10-07,Peru,Paraguay,2,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-10-11,Peru,Chile,2,4,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-11-15,Peru,Ecuador,0,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-06-03,Peru,Colombia,0,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-06-10,Peru,Uruguay,2,4,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-07,Peru,Venezuela,2,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-11,Peru,Argentina,1,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-10-12,Peru,Bolivia,1,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-10-16,Peru,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-22,Peru,Chile,1,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-07,Peru,Ecuador,1,0,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-11,Peru,Colombia,0,2,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-06,Peru,Uruguay,1,2,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-10,Peru,Venezuela,2,3,Puerto La Cruz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-11,Peru,Argentina,1,3,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-15,Peru,Bolivia,1,1,Lima,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1995-07-07,Peru,Colombia,1,1,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-10,Peru,Brazil,0,2,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-13,Peru,Ecuador,1,2,Rivera,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-12,Peru,Uruguay,1,0,Sucre,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-15,Peru,Bolivia,0,2,La Paz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-18,Peru,Venezuela,2,0,Sucre,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-21,Peru,Argentina,2,1,Sucre,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-26,Peru,Brazil,0,7,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-28,Peru,Mexico,0,1,Oruro,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-02,Peru,Bolivia,1,0,Asuncion,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-05,Peru,Paraguay,0,1,Pedro Juan Caballero,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-10,Peru,Mexico,3,3,Asuncion,Copa America,FALSE,FALSE,TRUE,2,4
+2000-02-16,Peru,USA,0,1,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2000-02-23,Peru,Colombia,1,2,San Diego,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2001-07-12,Peru,Paraguay,3,3,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-15,Peru,Brazil,0,2,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-18,Peru,Mexico,1,0,Cali,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-23,Peru,Colombia,0,3,Armenia,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-06,Peru,Bolivia,2,2,Lima,Copa America,TRUE,FALSE,FALSE,0,0
+2004-07-09,Peru,Venezuela,3,1,Lima,Copa America,TRUE,FALSE,FALSE,0,0
+2004-07-12,Peru,Colombia,2,2,Trujillo,Copa America,TRUE,FALSE,FALSE,0,0
+2004-07-17,Peru,Argentina,0,1,Chiclayo,Copa America,TRUE,FALSE,FALSE,0,0
+2007-06-26,Peru,Uruguay,3,0,Merida,Copa America,FALSE,FALSE,FALSE,0,0
+2007-06-30,Peru,Venezuela,0,2,San Cristobal,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-03,Peru,Bolivia,2,2,Merida,Copa America,FALSE,FALSE,FALSE,0,0
+2007-07-08,Peru,Argentina,0,4,Barquisimeto,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-04,Peru,Uruguay,1,1,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-08,Peru,Mexico,1,0,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-12,Peru,Chile,0,1,Mendoza,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-16,Peru,Colombia,2,0,Cordoba,Copa America,FALSE,TRUE,FALSE,0,0
+2011-07-19,Peru,Uruguay,0,2,La Plata,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-23,Peru,Venezuela,4,1,La Plata,Copa America,FALSE,FALSE,FALSE,0,0
+1996-04-24,Venezuela,Uruguay,0,2,Caracas,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-06-02,Venezuela,Chile,1,1,Barinas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-07-07,Venezuela,Bolivia,1,6,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-09-01,Venezuela,Ecuador,0,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-10-09,Venezuela,Argentina,2,5,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-11-10,Venezuela,Peru,1,4,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-12-15,Venezuela,Colombia,0,2,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-01-12,Venezuela,Paraguay,0,2,Merida,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-02,Venezuela,Uruguay,1,3,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-04-29,Venezuela,Chile,0,6,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-06-08,Venezuela,Bolivia,1,1,Valera,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-07-06,Venezuela,Ecuador,1,1,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-07-20,Venezuela,Argentina,0,2,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-08-20,Venezuela,Peru,0,3,Barinas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-09-10,Venezuela,Colombia,0,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-10-12,Venezuela,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-03-29,Venezuela,Ecuador,0,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-04-26,Venezuela,Argentina,0,4,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-06-04,Venezuela,Colombia,0,3,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-06-28,Venezuela,Bolivia,4,2,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-07-18,Venezuela,Uruguay,1,3,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-25,Venezuela,Chile,0,2,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-08-16,Venezuela,Peru,0,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-09-02,Venezuela,Paraguay,0,3,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-10-08,Venezuela,Brazil,0,6,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-11-15,Venezuela,Ecuador,1,2,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-03-28,Venezuela,Argentina,0,5,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-04-24,Venezuela,Colombia,2,2,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-06-03,Venezuela,Bolivia,0,5,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-08-14,Venezuela,Uruguay,2,0,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-09-04,Venezuela,Chile,2,0,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-10-06,Venezuela,Peru,3,0,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-08,Venezuela,Paraguay,3,1,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-14,Venezuela,Brazil,0,3,Sao Luiz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-06,Venezuela,Ecuador,0,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-09-09,Venezuela,Argentina,0,3,Caracas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2003-11-15,Venezuela,Colombia,1,0,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2003-11-18,Venezuela,Bolivia,2,1,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-03-31,Venezuela,Uruguay,3,0,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-06-01,Venezuela,Chile,0,1,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-06-06,Venezuela,Peru,0,0,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-09-05,Venezuela,Paraguay,0,1,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2004-10-09,Venezuela,Brazil,2,5,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-10-14,Venezuela,Ecuador,3,1,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2004-11-17,Venezuela,Argentina,2,3,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-03-26,Venezuela,Colombia,0,0,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-03-29,Venezuela,Bolivia,1,3,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-06-04,Venezuela,Uruguay,1,1,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-08,Venezuela,Chile,1,2,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-09-03,Venezuela,Peru,1,4,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-08,Venezuela,Paraguay,0,1,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-10-12,Venezuela,Brazil,0,3,Belem,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-13,Venezuela,Ecuador,1,0,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-10-16,Venezuela,Argentina,0,2,Maracaibo,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2007-11-17,Venezuela,Colombia,0,1,Bogota,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2007-11-20,Venezuela,Bolivia,5,3,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-06-14,Venezuela,Uruguay,1,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-06-19,Venezuela,Chile,2,3,Puerto La Cruz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-09-06,Venezuela,Peru,0,1,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-09-09,Venezuela,Paraguay,0,2,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2008-10-12,Venezuela,Brazil,0,4,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2008-10-15,Venezuela,Ecuador,3,1,Puerto La Cruz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-03-28,Venezuela,Argentina,0,4,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-03-31,Venezuela,Colombia,2,0,Puerto Ordaz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-06-06,Venezuela,Bolivia,1,0,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-10,Venezuela,Uruguay,2,2,Puerto Ordaz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-05,Venezuela,Chile,2,2,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-09-09,Venezuela,Peru,3,1,Puerto La Cruz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-10,Venezuela,Paraguay,1,2,Puerto Ordaz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-14,Venezuela,Brazil,0,0,Campo Grande,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-10-07,Venezuela,Ecuador,0,2,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-10-11,Venezuela,Argentina,1,0,Puerto La Cruz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2011-11-11,Venezuela,Colombia,1,1,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2011-11-15,Venezuela,Bolivia,1,0,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-06-02,Venezuela,Uruguay,1,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-06-09,Venezuela,Chile,0,2,Puerto La Cruz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-07,Venezuela,Peru,1,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-11,Venezuela,Paraguay,2,0,Asuncion,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-10-16,Venezuela,Ecuador,1,1,Puerto La Cruz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-03-22,Venezuela,Argentina,0,3,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-26,Venezuela,Colombia,1,0,Puerto Ordaz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-07,Venezuela,Bolivia,1,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-06-11,Venezuela,Uruguay,0,1,Puerto Ordaz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-09-06,Venezuela,Chile,0,3,Santiago de Chile,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-10,Venezuela,Peru,3,2,Puerto La Cruz,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-10-11,Venezuela,Paraguay,1,1,San Cristobal,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1995-07-05,Venezuela,Uruguay,1,4,Montevideo,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-09,Venezuela,Mexico,1,3,Maldonado,Copa America,FALSE,FALSE,FALSE,0,0
+1995-07-12,Venezuela,Paraguay,2,3,Maldonado,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-12,Venezuela,Bolivia,0,1,La Paz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-15,Venezuela,Uruguay,0,2,Sucre,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-18,Venezuela,Peru,0,2,Sucre,Copa America,FALSE,FALSE,FALSE,0,0
+1999-06-30,Venezuela,Brazil,0,7,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-03,Venezuela,Chile,0,3,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+1999-07-06,Venezuela,Mexico,1,3,Ciudad del Este,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-11,Venezuela,Colombia,0,2,Barranquilla,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-14,Venezuela,Chile,0,1,Barranquilla,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-17,Venezuela,Ecuador,0,4,Barranquilla,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-06,Venezuela,Colombia,0,1,Lima,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-09,Venezuela,Peru,1,3,Lima,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-12,Venezuela,Bolivia,1,1,Trujillo,Copa America,FALSE,FALSE,FALSE,0,0
+2007-06-26,Venezuela,Bolivia,1,1,San Cristobal,Copa America,TRUE,FALSE,FALSE,0,0
+2007-06-30,Venezuela,Peru,2,0,San Cristobal,Copa America,TRUE,FALSE,FALSE,0,0
+2007-07-03,Venezuela,Uruguay,0,0,Merida,Copa America,TRUE,FALSE,FALSE,0,0
+2007-07-07,Venezuela,Uruguay,1,4,San Cristobal,Copa America,TRUE,FALSE,FALSE,0,0
+2011-07-03,Venezuela,Brazil,0,0,La Plata,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-09,Venezuela,Ecuador,1,0,Salta,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-13,Venezuela,Paraguay,3,3,Salta,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-17,Venezuela,Chile,2,1,San Juan,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-20,Venezuela,Paraguay,0,0,Mendoza,Copa America,FALSE,FALSE,TRUE,3,5
+2011-07-23,Venezuela,Peru,1,4,La Plata,Copa America,FALSE,FALSE,FALSE,0,0
+2002-06-13,Costa Rica,Brazil,2,5,Suwon,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2006-06-15,Costa Rica,Ecuador,0,3,Hamburg,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2014-06-14,Costa Rica,Uruguay,3,1,Fortaleza,FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1996-12-01,Costa Rica,USA,2,1,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1996-12-14,Costa Rica,USA,1,2,Palo Alto,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-03-16,Costa Rica,Mexico,0,0,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-03-23,Costa Rica,USA,3,2,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-05-11,Costa Rica,Jamaica,3,1,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-09-07,Costa Rica,USA,0,1,Portland,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-09-14,Costa Rica,Jamaica,0,1,Kingston,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+1997-11-09,Costa Rica,Mexico,3,3,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2000-07-23,Costa Rica,USA,2,1,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2000-10-11,Costa Rica,USA,0,0,Columbus,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-04-25,Costa Rica,USA,0,1,Kansas City,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-06-16,Costa Rica,Mexico,2,1,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-06-20,Costa Rica,Jamaica,2,1,San Jose,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-09-05,Costa Rica,USA,2,0,Tibas,Qualifiers FIFA World Cup,FALSE,TRUE,FALSE,0,0
+2001-10-07,Costa Rica,Mexico,0,0,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2001-11-11,Costa Rica,Jamaica,1,0,Kingston,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-02-09,Costa Rica,Mexico,1,2,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-04,Costa Rica,USA,0,3,Salt Lake City,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-08-17,Costa Rica,Mexico,0,2,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2005-10-08,Costa Rica,USA,3,0,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-03-28,Costa Rica,Mexico,0,2,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-06-03,Costa Rica,USA,3,1,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-09-05,Costa Rica,Mexico,0,3,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-14,Costa Rica,USA,2,2,Washington DC,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2009-11-14,Costa Rica,Uruguay,0,1,Tibas,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-11-14,Costa Rica,Uruguay,1,1,Montevideo,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2012-09-07,Costa Rica,Mexico,0,2,San Jose,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2012-09-11,Costa Rica,Mexico,0,1,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-22,Costa Rica,USA,0,1,Commerce City,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-03-26,Costa Rica,Jamaica,2,0,San Jose,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2013-06-11,Costa Rica,Mexico,0,0,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-06,Costa Rica,USA,3,1,San Jose,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-09-10,Costa Rica,Jamaica,1,1,Kingston,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2013-10-15,Costa Rica,Mexico,2,1,San Jose,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-06-13,Costa Rica,Brazil,0,5,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-16,Costa Rica,Colombia,1,4,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1997-06-19,Costa Rica,Mexico,1,1,Santa Cruz,Copa America,FALSE,FALSE,FALSE,0,0
+1998-02-07,Costa Rica,USA,1,2,Oakland,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2001-07-16,Costa Rica,Uruguay,1,1,Medellin,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-19,Costa Rica,Bolivia,4,0,Medellin,Copa America,FALSE,FALSE,FALSE,0,0
+2001-07-22,Costa Rica,Uruguay,1,2,Armenia,Copa America,FALSE,FALSE,FALSE,0,0
+2002-02-02,Costa Rica,USA,0,2,Pasadena,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2003-07-24,Costa Rica,Mexico,0,2,Ciudad de Mexico,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2003-07-26,Costa Rica,USA,2,3,Miami,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2004-07-08,Costa Rica,Paraguay,0,1,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-11,Costa Rica,Brazil,1,4,Arequipa,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-14,Costa Rica,Chile,2,1,Tacna,Copa America,FALSE,FALSE,FALSE,0,0
+2004-07-17,Costa Rica,Colombia,0,2,Trujillo,Copa America,FALSE,FALSE,FALSE,0,0
+2005-07-12,Costa Rica,USA,0,0,Foxborough,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2007-06-17,Costa Rica,Mexico,0,1,Houston,CONCACAF Gold Cup,FALSE,TRUE,FALSE,0,0
+2009-07-07,Costa Rica,Jamaica,1,0,Columbus,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2009-07-23,Costa Rica,Mexico,1,1,Chicago,CONCACAF Gold Cup,FALSE,TRUE,TRUE,3,5
+2011-06-12,Costa Rica,Mexico,1,4,Chicago,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
+2011-07-02,Costa Rica,Colombia,0,1,Jujuy,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-07,Costa Rica,Bolivia,2,0,Jujuy,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-11,Costa Rica,Argentina,Cordoba,0,3,Copa America,FALSE,FALSE,FALSE,0,0
+2013-07-16,Costa Rica,USA,0,1,East Hartford,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
