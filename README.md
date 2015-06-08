@@ -20,3 +20,6 @@ types of competition:
 - Copa América
 - CONCACAF Gold Cup
 - FIFA Confederations Cup
+
+Note: USA is not present in Country column because I want to predict 2011 and
+2015 competitions, in which USA does not participate...

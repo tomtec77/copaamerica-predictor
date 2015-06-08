@@ -129,7 +129,7 @@ Date,Country,Opponent,GoalsScored,GoalsReceived,Venue,Competition,IsHome,ExtraTi
 1996-12-15,Chile,Argentina,1,1,Buenos Aires,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
 1997-01-12,Chile,Peru,1,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
 1997-02-12,Chile,Bolivia,1,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
-1997-04-29,Chile,Venezuela,Santiago de Chile,6,0,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+1997-04-29,Chile,Venezuela,6,0,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 1997-06-08,Chile,Ecuador,1,1,Quito,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
 1997-07-05,Chile,Colombia,4,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 1997-07-20,Chile,Paraguay,2,1,Santiago de Chile,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
@@ -377,7 +377,7 @@ Date,Country,Opponent,GoalsScored,GoalsReceived,Venue,Competition,IsHome,ExtraTi
 2004-11-17,Ecuador,Brazil,1,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 2005-03-27,Ecuador,Paraguay,5,2,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 2005-03-30,Ecuador,Peru,2,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
-2005-06-04,Ecuador,Argentina,Quito,2,0,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2005-06-04,Ecuador,Argentina,2,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 2005-06-08,Ecuador,Colombia,0,3,Barranquilla,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
 2005-09-03,Ecuador,Bolivia,2,1,La Paz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
 2005-10-08,Ecuador,Uruguay,0,0,Quito,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
@@ -746,7 +746,7 @@ Date,Country,Opponent,GoalsScored,GoalsReceived,Venue,Competition,IsHome,ExtraTi
 2009-09-05,Paraguay,Bolivia,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 2009-09-09,Paraguay,Argentina,1,0,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 2009-10-10,Paraguay,Venezuela,2,1,Puerto Ordaz,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
-2009-10-14,Paraguay,Colombia,Asuncion,0,2,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
+2009-10-14,Paraguay,Colombia,0,2,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 2011-10-07,Paraguay,Peru,0,2,Lima,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
 2011-10-11,Paraguay,Uruguay,1,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 2011-11-11,Paraguay,Ecuador,2,1,Asuncion,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
@@ -802,7 +802,7 @@ Date,Country,Opponent,GoalsScored,GoalsReceived,Venue,Competition,IsHome,ExtraTi
 1997-11-16,Jamaica,Mexico,0,0,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 2001-03-25,Jamaica,Mexico,0,4,Ciudad de Mexico,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
 2001-06-16,Jamaica,USA,0,0,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
-2001-06-20,Jamaica,Costa Rica,San Jose,1,2,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
+2001-06-20,Jamaica,Costa Rica,1,2,San Jose,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
 2001-09-02,Jamaica,Mexico,1,2,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
 2001-10-07,Jamaica,USA,1,2,Foxboro,Qualifiers FIFA World Cup,FALSE,FALSE,FALSE,0,0
 2001-11-11,Jamaica,Costa Rica,0,1,Kingston,Qualifiers FIFA World Cup,TRUE,FALSE,FALSE,0,0
@@ -1356,5 +1356,5 @@ Date,Country,Opponent,GoalsScored,GoalsReceived,Venue,Competition,IsHome,ExtraTi
 2011-06-12,Costa Rica,Mexico,1,4,Chicago,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
 2011-07-02,Costa Rica,Colombia,0,1,Jujuy,Copa America,FALSE,FALSE,FALSE,0,0
 2011-07-07,Costa Rica,Bolivia,2,0,Jujuy,Copa America,FALSE,FALSE,FALSE,0,0
-2011-07-11,Costa Rica,Argentina,Cordoba,0,3,Copa America,FALSE,FALSE,FALSE,0,0
+2011-07-11,Costa Rica,Argentina,0,3,Cordoba,Copa America,FALSE,FALSE,FALSE,0,0
 2013-07-16,Costa Rica,USA,0,1,East Hartford,CONCACAF Gold Cup,FALSE,FALSE,FALSE,0,0
